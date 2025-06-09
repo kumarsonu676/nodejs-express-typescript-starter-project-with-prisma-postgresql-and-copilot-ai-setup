@@ -1,5 +1,7 @@
 # Node Express With TypeScript & PostgreSQL - Backend
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/muneebhashone/typescript-backend-toolkit)
+
 This repository contains the backend implementation for the **Node Express With TypeScript & PostgreSQL - Backend**. It is built using **Node.js**, **Express**, **TypeScript**, and **Prisma** with **PostgreSQL** as the database.
 
 ---
